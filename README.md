@@ -30,8 +30,6 @@ Responsive web app that can recognize handwritten characters drawn on canvas and
 
 ---
 
-Link to web app: [Handwritten Character Recognition Calculator](http://saurav77835.github.com/Handwritten-Optical-Character-Recognition/)
-
 Link to dataset: [Handwritten Math Symbols Dataset](https://www.kaggle.com/saurav77/handwritten-math-symbols)
 
 Link to notebook for training CNN: [Notebook](https://www.kaggle.com/saurav77/starter-notebook)
