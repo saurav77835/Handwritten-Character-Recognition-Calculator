@@ -1,7 +1,7 @@
 # Handwritten Character Recognition Calculator
 
-[![GitHub license](https://img.shields.io/github/license/saurav77835/Handwritten-Optical-Character-Recognition?style=for-the-badge)](https://github.com/saurav77835/Handwritten-Optical-Character-Recognition)
-![Website](https://img.shields.io/website?style=for-the-badge&url=http://saurav77835.github.com/Handwritten-Optical-Character-Recognition/)
+[![GitHub license](https://img.shields.io/github/license/saurav77835/Handwritten-Character-Recognition-Calculator?style=for-the-badge)](https://github.com/saurav77835/Handwritten-Character-Recognition-Calculator)
+![Website](https://img.shields.io/website?style=for-the-badge&url=https://saurav77835.github.io/Handwritten-Character-Recognition-Calculator/)
 
 [![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)
 [![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)
@@ -11,7 +11,7 @@
 
 ---
 
-![Demo](https://raw.githubusercontent.com/saurav77835/Handwritten-Optical-Character-Recognition/main/img/hocr-demo.gif)
+![Demo](https://raw.githubusercontent.com/saurav77835/Handwritten-Character-Recognition-Calculator/main/img/hocr-demo.gif)
 Responsive web app that can recognize handwritten characters drawn on canvas and perform arithmetic calculation. Inference is carried out on browser using TensorFlowJS.
 
 ## Supported Characters
